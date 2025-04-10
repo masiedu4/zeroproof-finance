@@ -25,6 +25,7 @@ A zero-knowledge financial verification system that combines RISC Zero's zkVM wi
 
 1. Install [Rust](https://rustup.rs/) and required components:
 ```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
 2. Install [Docker](https://docs.docker.com/get-docker/) for Cartesi environment
